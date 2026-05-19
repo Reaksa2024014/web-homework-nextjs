@@ -15,17 +15,16 @@ export default function BlogPage(){
         {profile: "https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI1LTAyL3Jhd3BpeGVsb2ZmaWNlM18zZF9yZWFsaXN0aWNfbmV2eV9ibHVlX3BvbG9fc2hpcnRfbW9ja3VwX2Zyb250X18zODM5ZDRkOS03NTU2LTQ5NjQtYjMwNC1kMmRhNjQ3ZDgyNDgtbTdidXdpNzAucG5n.png",
     name:"Caty Caty", position:"Meow Saver" },
 
-
+    
         {profile: "https://e7.pngegg.com/pngimages/826/253/png-clipart-t-shirt-polo-shirt-clothing-sleeve-black-t-shirt-black-crew-neck-t-shirt-tshirt-fashion.png",
     name:"Caty Caty", position:"Meow Saver" },
         {profile: "https://static.vecteezy.com/system/resources/previews/035/575/252/non_2x/men-s-t-shirt-isolated-on-transparent-background-free-png.png",
     name:"Caty Caty", position:"Meow Saver" },
-        {profile: "https://pics.clipartpng.com/Male_White_Shirt_PNG_Clipart-942.png",
+        {profile: "https://e7.pngegg.com/pngimages/389/698/png-clipart-t-shirt-top-sleeve-clothing-black-t-shirt-white-crew-neck-t-shirt-tshirt-angle.png",
     name:"Caty Caty", position:"Meow Saver" },
         {profile: "https://png.pngtree.com/png-vector/20240426/ourmid/pngtree-red-t-shirt-png-image_12322366.png",
     name:"Caty Caty", position:"Meow Saver" },
-
-        
+   
     ]
 
     return (
@@ -43,7 +42,6 @@ export default function BlogPage(){
     </div>
     )
 }
-
 
 
 // export default function BlogPage() {
